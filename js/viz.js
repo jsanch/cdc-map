@@ -9,7 +9,7 @@ var MapViz = {
   // Data Paths
   mapPath: "data/us4.json",
   // dataPath: 'data/nmaj-nshg.json',
-  dataPath: 'https://cdc-science.demo.socrata.com/resource/nmaj-nshg.json?$limit=10000',
+  dataPath: 'https://cdc-science.demo.socrata.com/resource/vcj3-5agi.json?$limit=10000',
 
   // Data
   us: null, // US Map GeoJson
